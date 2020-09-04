@@ -1,4 +1,5 @@
-# Taller de Arquitecturas de Servidores de Aplicaciones, Meta protocolos de objetos, Patrón IoC, Reflexión
+# Taller Clientes y servicios parte2
+
 ## Requisitos
 * Git
 * Java 8
@@ -24,9 +25,7 @@ java -cp target/classes co.edu.escuelaing.sparkd.microspring.MicroSpringBoot
 ```
 6. Probamos en el navegador
 ```
-http://localhost:36000/Apps/hola
-http://localhost:36000/Apps/pi
-http://localhost:36000/Apps/pag
+http://localhost:36000/Apps/mongo
 ```
 
 
